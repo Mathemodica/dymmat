@@ -213,3 +213,18 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+*.mat
+examples/circuit/dslog.txt
+examples/circuit/alistlog.txt
+dslog.txt
+dsin.txt
+dsfinal.txt
+alistlog.txt 
+dsmodel.c
+dymosim.exe
+dymosim.exp
+dymosim.lib
+null
+status
+failure
+dymosim.exp
