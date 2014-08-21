@@ -1,7 +1,8 @@
 %
-% A script for adding 
+% A script for adding required matlab files to the path
 %
-% Author : Atiyah Elsheikh, Austrian Institute of Technology GmbH © 2014 
+% Author : Atiyah Elsheikh, Austrian Institute of Technology GmbH
+% Years  : 2014
 % 
 
 
@@ -19,7 +20,7 @@
 % MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 % GNU Lesser General Public License for more details.
 % You should have received a copy of the GNU Lesser General Public License
-% along with Foobar. If not, see <http://www.gnu.org/licenses/>
+% along with dymmat. If not, see <http://www.gnu.org/licenses/>
 %
 
 dymhome = 'C:\Program Files (x86)\Dymola 2015\'; 
