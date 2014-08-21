@@ -234,3 +234,4 @@ alistlog.txt
 /mfiles/*.asv
 
 /examples/simple/request
+*.asv
