@@ -10,9 +10,7 @@ Not all code is provided here due to copyright issues. You need to contact me if
 Author
 =======
 
-Atiyah Elsheikh, Austrian Institute of Technology GmbH, Vienna, Austria
-Atiyah.Elsheikh at ait.ac.at
-A.M.G.Elsheikh at Gmail 
+Atiyah Elsheikh, Mathemodica.com, atiyah.elsheikh at mathemodica.com
 
 
 Release 
